@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Konstantin Potapov
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> computer science enthusiast, from Russia</h3>
+<h4 align="left"> <p>&#128512;</p> languages and tools</h4>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
